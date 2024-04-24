@@ -1,14 +1,19 @@
-## SOHYUN JANG: Full Stack Engineer
+### SOHYUN JANG
+
+![c0ca6e890ad1fa5c-sticker](https://github.com/shjang1025/shjang1025/assets/26673070/f3df8d35-99fb-4d17-b831-64b995b3338b)
+
 
 - 📍🌎 Based in Seattle, Washington
 - 📚 Majored in Mathematics at the University of Washington
-</br>
 
-You can contact me !! 📧 [Email me](mailto:shjang1025@gmail.com)
+## 🫧 Contact Me 🫧
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohyun-jang-469918115/)
+<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 
-<span>[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohyun-jang-469918115/)</span>
 
-## Technologies
+
+
+## 🛠️ Technologies 🛠️
 **Front End**
 - ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
