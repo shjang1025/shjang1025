@@ -1,4 +1,4 @@
-### SOHYUN JANG
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Sohyun's+Github;&size=40&width=700&height=100)](https://git.io/typing-svg)
 
 ![c0ca6e890ad1fa5c-sticker](https://github.com/shjang1025/shjang1025/assets/26673070/f3df8d35-99fb-4d17-b831-64b995b3338b)
 
