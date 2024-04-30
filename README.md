@@ -1,14 +1,12 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Sohyun's+Github;&size=40&width=700&height=100" alt="Typing SVG">
+
+<p align="start">
+  <img src="https://github.com/shjang1025/shjang1025/assets/26673070/f3df8d35-99fb-4d17-b831-64b995b3338b" alt="c0ca6e890ad1fa5c-sticker" style="width: 150px; height: 150px;">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Sohyun!;&size=40&width=700&height=100" alt="Typing SVG">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/shjang1025/shjang1025/assets/26673070/f3df8d35-99fb-4d17-b831-64b995b3338b" alt="c0ca6e890ad1fa5c-sticker">
-</p>
-
-
+My journey began with a mathematics degree from the University of Washington, where I honed my analytical skills. Before diving into software engineering, I gained valuable experience as a software test engineer. I was drawn to this field by the opportunity to challenge myself and enhance my logical reasoning abilities. Leveraging my background, I excel in crafting efficient and robust code to tackle complex problems.
 
 - 📍🌎 Based in Seattle, Washington
 - 📚 Majored in Mathematics at the University of Washington
