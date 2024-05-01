@@ -55,7 +55,7 @@ But life isn't all about coding. Off-screen, you'll find me enjoying a good cup 
     <div>
       <strong>Cloud</strong>
       </br>
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="React Badge"/>
     </div>
   </div>
 </br>
